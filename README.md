@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ismail020
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Vue
 - 📫 How to reach me: isocetin1907@gmail.com, https://www.linkedin.com/in/ismail-cetin-/
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ismail020
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning Flutter and Design
 - 📫 How to reach me: isocetin1907@gmail.com, [LinkedIn - Ismail Çetin](https://www.linkedin.com/in/ismail-cetin-/)
 
 <!---
